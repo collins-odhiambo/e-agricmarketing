@@ -1,0 +1,1 @@
+The e-agricmarketing app is an ecommerce application specifically for agricultural products. This is as a result of the rise in non-GMO food due to health concens. Through this, the people affected will be able to get these types of food directly and place an order.
